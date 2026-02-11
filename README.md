@@ -6,8 +6,9 @@ A comprehensive bootcamp covering PostgreSQL fundamentals and advanced topics ov
 
 This repository contains homework assignments and SQL exercises from the bootcamp:
 
-- [day_2_homework.sql](day_2_homework.sql) - Week 2 SQL exercises
-- [day_4_homework.sql](day_4_homework.sql) - Week 4 SQL exercises
+- [day_2_homework.sql](day_2_homework.sql) - Week 2 SQL exercise
+- [day_3_homework.sql](day_3_homework.sql) - Day 3 Exercise 
+- [day_4_homework.sql](day_4_homework.sql) - Day 4 SQL exercises
 
 ## About
 
