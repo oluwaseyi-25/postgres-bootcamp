@@ -9,7 +9,7 @@ This repository contains homework assignments and SQL exercises from the bootcam
 - [day 2 homework](day_2_homework.sql) - Week 2 SQL exercise
 - [day 3 homework.sql](day_3_homework.sql) - Day 3 Exercise 
 - [day 4 homework.sql](day_4_homework.sql) - Day 4 SQL exercises
-- [Netflix Project](netflix-main-data/solution.sql)
+- [Netflix Project](netflix-movies-data/solution.sql)
 
 ## About
 
